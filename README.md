@@ -1,6 +1,8 @@
 # plot-wiggle
 python,wigb,wiggle
 
+If copyright infringement or offense occurs to you, please contact me to remove it. For study purposes only, commercial use is prohibited.如果侵权或冒犯到您，请联系我删除。仅用于学习用途，禁止商用。
+
 1 use: use python run is ok.使用VScode等软件跑就可以。
 
 2 note: x,z,a_max in self_python_wigb.py is selectable. x,z,a_max这三个参数是可选的。
